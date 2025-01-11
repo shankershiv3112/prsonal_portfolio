@@ -47,10 +47,10 @@ const projects = [
     {
       img: project6,
       title: "Project #5",
-      description: "A data visualization project using D3.js and other libraries.",
+      description: "A personal portfolio built with Vite and React, featuring a modern design to showcase my projects, skills and a section about me",
       links: {
         site: "#",
-        github: "#",
+        github: "https://github.com/shankershiv3112/prsonal_portfolio",
       },
     },
   ]
