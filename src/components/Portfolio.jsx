@@ -10,16 +10,16 @@ import Reveal from './Reveal';
 const projects = [
     {
       img: project1,
-      title: "Project #1",
-      description: "A simple Tic-Tac-Toe game built with HTML, CSS, and JavaScript, featuring real-time gameplay and win/tie detection.",
+      title: "Project: Tic-Tac-Toe",
+      description: " A simple Tic-Tac-Toe game built with HTML, CSS, and JavaScript, offering real-time gameplay, win/tie detection, and a responsive design for both desktop and mobile devices.",
       links: {
-        site: "#",
+        site: "https://tic-tac-toe-game-seven-psi.vercel.app/",
         github: "https://github.com/shankershiv3112/Tic-Tac-Toe-game",
       },
     },
     {
       img: project2,
-      title: "Project #2",
+      title: "Project: Daily Expense Tracker",
       description: "A daily expense tracker built with PHP and MySQL, allowing users to log, manage, and view their expenses with real-time data storage and retrieval.",
       links: {
         site: "#",
@@ -28,7 +28,7 @@ const projects = [
     },
     {
       img: project4,
-      title: "Project #3",
+      title: "Project: Pizza Sales Analysis Dashboard",
       description: "A Pizza Sales Analysis Dashboard built with MySQL and Power BI, providing interactive insights on sales performance, trends, and top-selling items.",
       links: {
         site: "#",
@@ -46,7 +46,7 @@ const projects = [
     },
     {
       img: project6,
-      title: "Project #5",
+      title: "Project: Personal Portfolio",
       description: "A personal portfolio built with Vite and React, featuring a modern design to showcase my projects, skills and a section about me",
       links: {
         site: "#",
