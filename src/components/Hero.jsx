@@ -9,11 +9,13 @@ import {
   AiOutlineLinkedin,
 } from "react-icons/ai";
 import {
-  DiCss3,
+  
   DiHtml5,
   DiJavascript1,
   DiNodejsSmall,
   DiReact,
+  DiMysql,
+  DiPython,
 } from "react-icons/di";
 import { motion } from "framer-motion";
 
@@ -122,10 +124,12 @@ const Hero = () => {
         >
             <p className="text-gray-200 mr-6">My Tech Stack</p>
             <DiHtml5 className="text-orange-600 mx-2" />
-            <DiCss3 className="text-blue-600 mx-2" />
+            
             <DiJavascript1 className="text-yellow-500 mx-2" />
             <DiReact className="text-blue-500 mx-2" />
             <DiNodejsSmall className="text-green-500 mx-2" />
+            <DiMysql className="text-blue-500 mx-2" />
+            <DiPython className="text-yellow-500 mx-2" />
 
         </motion.div>
 
