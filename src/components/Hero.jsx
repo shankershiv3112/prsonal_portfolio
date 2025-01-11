@@ -9,9 +9,8 @@ import {
   AiOutlineLinkedin,
 } from "react-icons/ai";
 import {
-  
-  DiHtml5,
-  DiJavascript1,
+   
+    DiJavascript1,
   DiNodejsSmall,
   DiReact,
   DiMysql,
@@ -74,7 +73,7 @@ const Hero = () => {
                 >
                     {/*Anchor tag wrapping the button for dowload */}
                     <a
-                    href="https://drive.google.com/file/d/1s12ymK4z2tGsmZ2xkzx2_Zsacg_tUOhl/view?usp=drivesdk"
+                    href="https://drive.google.com/file/d/19x0fTI8wLQbHvCS6epLx5_TOuAiUpO19/view?usp=drivesdk"
                     download="Shiv-Shankar-CV.pdf"
                     className="z-10"
                     >
@@ -123,9 +122,9 @@ const Hero = () => {
             className="flex flex-row text-7xl px-12 md:px-0 w-full justify-center items-center py-24"
         >
             <p className="text-gray-200 mr-6">My Tech Stack</p>
-            <DiHtml5 className="text-orange-600 mx-2" />
             
-            <DiJavascript1 className="text-yellow-500 mx-2" />
+            
+            <DiJavascript1 className="text-red-500 mx-2" />
             <DiReact className="text-blue-500 mx-2" />
             <DiNodejsSmall className="text-green-500 mx-2" />
             <DiMysql className="text-blue-500 mx-2" />
