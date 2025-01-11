@@ -73,7 +73,7 @@ const Hero = () => {
                 >
                     {/*Anchor tag wrapping the button for dowload */}
                     <a
-                    href="https://drive.google.com/file/d/19x0fTI8wLQbHvCS6epLx5_TOuAiUpO19/view?usp=drivesdk"
+                    href="https://drive.google.com/file/d/1xAKK994ABnDkLHY3bFCP0oQZUIye0vKI/view?usp=drivesdk"
                     download="Shiv-Shankar-CV.pdf"
                     className="z-10"
                     >
