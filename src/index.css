@@ -32,3 +32,21 @@ span {
 .bg-primary-color {
     @apply bg-purple-600
 }
+.education-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  min-height: 100vh;
+}
+
+.education-item {
+  max-width: 600px;
+  
+  transition: transform 0.5s ease-in-out;
+}
+
+.education-item:hover {
+  transform: scale(1.05);
+}
