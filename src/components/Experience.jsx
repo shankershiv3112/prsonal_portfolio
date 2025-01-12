@@ -7,7 +7,7 @@ const experiences = [
         company: 'Utkryst IT Solutions',
         role:'Azure Cloud Administrator Intern',
         period: 'May 2024 - June 2024',
-        description: 'Contributed to enhancing cloud infrastructure for the Jharkhand Electricity Board using Microsoft Azure. Configured and managed Virtual Machines (VMs), Resource Groups, and Networking components such as VNets and NSGs. Implemented and optimized Azure Storage Accounts with Role-Based Access Control (RBAC). Utilized Azure Monitor and Log Analytics for performance monitoring and troubleshooting, ensuring secure and efficient operations.',
+        description: 'I completed a summer internship at Utkryst IT Solutions, Mumbai, from May 15 to June 14, 2024, as part of my Bachelor of Technology in Information Technology program. During the internship, I worked on Microsoft Azure Cloud administration and contributed to the Jharkhand Electricity Board project under the guidance of the Program Manager. This experience helped me enhance my technical skills and teamwork abilities.',
       },
       
 ]
